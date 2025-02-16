@@ -1,0 +1,11 @@
+ipathelper/__pycache__/
+__pycache__/
+build/
+dist/
+ipathelper.egg-info/
+docs/_build/
+docs/_templates/
+.vscode/launch.json
+poetry.lock
+.venv/
+.ruff_cache

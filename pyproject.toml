@@ -1,0 +1,25 @@
+[project]
+name = "ipathelper"
+version = "1.0.1"
+description = ""
+authors = [
+    {name = "Mikimini9627"}
+]
+readme = "README.rst"
+requires-python = ">=3.12"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+description = "PythonでIPATに投票する際に利用可能なモジュール"
+license = "MIT License"
+homepage = "https://github.com/Mikimini9627/ipathelper"
+repository = "https://github.com/Mikimini9627/ipathelper"
+readme = "README.rst"
+classifiers = [
+    'Intended Audience :: Developers',
+    'License :: OSI Approved :: MIT License',
+    'Programming Language :: Python :: 3.12',
+]
