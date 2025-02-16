@@ -6,8 +6,8 @@ ipathelper
 概要
 --------
 
-`Github <https://github.com/Mikimini9627/ipathelper_sample>`__ ではPython以外の利用例を公開しています。  
-関数仕様については `関数仕様書 <https://github.com/Mikimini9627/ipathelper_sample/blob/main/Build/%E9%96%A2%E6%95%B0%E4%BB%95%E6%A7%98%E6%9B%B8.md>`__ を確認してください。
+`Github <https://github.com/Mikimini9627/ipathelper_dll>`__ ではPython以外の利用例を公開しています。  
+関数仕様については `関数仕様書 <https://github.com/Mikimini9627/ipathelper_dll/blob/main/builds/%E9%96%A2%E6%95%B0%E4%BB%95%E6%A7%98%E6%9B%B8.md>`__ を確認してください。
 
 --------
 使用方法
