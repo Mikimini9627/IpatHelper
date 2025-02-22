@@ -6,6 +6,6 @@ ipathelper.egg-info/
 docs/_build/
 docs/_templates/
 .vscode/launch.json
-poetry.lock
+uv.lock
 .venv/
 .ruff_cache
