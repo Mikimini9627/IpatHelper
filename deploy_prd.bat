@@ -1,4 +1,4 @@
 rmdir /s /q dist
 
-poetry build
-poetry publish
+uv build
+uvx twine upload --repository pypi dist/*
