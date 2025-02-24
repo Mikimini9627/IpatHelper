@@ -1,6 +1,6 @@
 [project]
 name = "ipathelper"
-version = "1.0.4"
+version = "1.0.5"
 description = "PythonでIPATに投票する際に利用可能なモジュール"
 readme = "README.rst"
 authors = [
